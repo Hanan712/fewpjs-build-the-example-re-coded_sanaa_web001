@@ -12,7 +12,7 @@ var liker = document.querySelector(".like")
 // Your JavaScript code goes here!
 
 // liker.addEventListener("click", (event) => {
-//   mimicServerCall(function (url) { 
+//   mimicServerCall(function (url) {
 //   .then((result => event.target.innerText = hash[event.target.innerText];
 //   .catch((error => {
 //     modal.classList.remove("hidden");
